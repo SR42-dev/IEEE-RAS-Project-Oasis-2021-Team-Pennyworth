@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-oasis-pennyworth",
+  "private_key_id": "0b253f0db19dcb53dfa74febe5dcdabbe9671087",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDL9eDsgUGr7JHu\nKQGeES1dMhWoLxfiUptvL5MGsr7yR2A2GCMUlUWMZ0vn04FWnkZL4dsR+6na4y+S\numvTKMljTj3oFw0XV0QAbiCbq2CgbCzOBkCecttBjWX/ToxC9ciRnDr+nKEt6O0K\n75ozkz87q1vL/mQdmQqp9khhFYM/DFUURaMCNqfZu2502PuynxnZv8O7wgLllMCD\n3exPFBlhOoQUdMEz76JTJuiZKEm4uvF7RBag8IP8jumY3kyhXBg8IdYSvKKBWmBV\nV0XgVKBng0mMVpMUCn7NrMSOgNxueULTI8YrOyUWcY4J0pKkD70R2oBLDhErCDNw\nVToLGRdLAgMBAAECggEAP76UcgZBwpxYzYDWZxMCRQ7Ksvoo8kyUFK9fOagywmDp\nYm6vxBaVGnkMQaOaWDp2SPAJOjkX0HfRnf+ShHfKXTWOZpORvVpCQAorOcvZkrnM\nVQWiO4M1IGszVhQ0BRdw/IVB8OJ+A225bAIPhQ//osP/GCXlH1T9/rmgzGrfTpwZ\n/+prdBOzr6vJZ8tJQvnTp4Nl2iMtfOpMuhkY4zGyyhRa2PAzgge/rhk3RMxzVl9y\nJG3mG+cPLn6dqsH19332YZjZSb6IPDAnUahCzTXwFB8DPGkn34Cq7phbFECagJLi\nZ2ULwI7gKRTQ0cmYhl66wr5nZE7qAp5sD6pj5LnsMQKBgQD9bVtufuupotAPKF0j\nJGqxFuCO4BgInlvwAtrUkS3sK/xtOjzT1xBcT3OuJjckR/tT9FJTYC4LIbil1O3f\nuhEb3IxpegK2IZHRTz/8ghKMZQqgvKgxKMlcD7u1tts1pwnn8lPsK7emKOkSCMfW\nCRV09KtjbtYATsj3bVx+7JsJMQKBgQDOB/XUkYBzs6ePkrdwHW4M8XP71u7UhoEd\nyh/FSr5M6Cmi7OcwDtjj8NqM2FITk3jS5BOFRognNTdJ0PRo3F7A9gzJO+7/lODb\nCrh8dloouzwxjtpa1itDonj+1jODIZTmk42gZcfkF09BT1iPkuTrkClkmuXtm6Sr\ndzVBCe9JOwKBgChMHE7MpcJ6niTa4Tx2TPTN03VEku3D6JCYk51bXHcCY4gmy4dP\n2k0jYRye/QOq4n7uCa0yTP/+I7NS0WRS3OeWQUmAWjAF1H744A7RzAtBAdifRwtS\nFfqqkcmKQv8cCYo1UTzrkq88MBtrBAO3vA613Q7Zj/PKk1AstpmEG/7xAoGBAMQr\nUCXVZDjGFgTd7UsSunYYcBaZz00LxGRYz2dKg2c2pm46ouVfPaPK8Eyqq3t4LtKd\n1vhO79RlFv9xtUUijhWsMQBp0GYJmw70ZjQbfDzMCcQmAEH9KbR8PjhmOyXgE6Z3\nV6IhRvImP5AvvGL3un+QA9mGouZaC7A3EL2cd/mBAoGAcmhAYfJRsZpR+52ZKZMm\nMJPl5IMqthK6vyZEpmGu1FN4O/U6OXiLXjAJ5j9A7TyT1WJ88ChneA6HN9ilWDe5\ntwtCs7Qpco8qGWjorNBA7DiD3HP69Tg4e95kJoWYSimVIgdIXjmc4sXjLc0d04Ng\n0SA/2B9eYNCmwEC6nVHURYI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "trial-817@project-oasis-pennyworth.iam.gserviceaccount.com",
+  "client_id": "104627577671125168759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trial-817%40project-oasis-pennyworth.iam.gserviceaccount.com"
+}

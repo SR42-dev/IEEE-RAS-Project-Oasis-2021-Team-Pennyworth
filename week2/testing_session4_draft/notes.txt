@@ -1,0 +1,16 @@
+rrrrrfffffffffflllllfffffffffff - right track shift, 2.6s 
+llllllllfffffffrrrrrrrrrrrrrr - left track shift, 1.87s
+lllllllllllllllfffffffffffffff - cut across center, 2.4s
+
+0.05, 0.110 
+
+go to edge
+isolate path
+go to purple
+adjust hsv values
+get instructions to go switch tracks
+go to pink
+adjust hsv values
+get instructions to go to green across centre
+finish
+
